@@ -1,4 +1,4 @@
-# 🌐 Hosterr Landing Page
+# 🌐 Hosterr Landing Page: https://hosterr-tailwindcss-e1o6e54dv-abhinav-sharmas-projects-ab75c3d7.vercel.app
 
 A modern and responsive **Hosterr landing page** built with **React, Vite, and Tailwind CSS**.  
 It demonstrates clean UI components, responsive layouts, and reusable React components styled with Tailwind.
