@@ -45,3 +45,5 @@ Tailwind CSS
 
 PostCSS
  – CSS processing
+
+ ![Hosterr Landing Page](./public/assets/screenshot.png)
